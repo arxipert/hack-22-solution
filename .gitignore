@@ -1,0 +1,7 @@
+# Project exclude paths
+/out/
+lib
+hack-22-solution.iml
+out
+.idea
+agent.jar
